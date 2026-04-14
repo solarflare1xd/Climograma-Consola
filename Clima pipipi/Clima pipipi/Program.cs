@@ -122,7 +122,7 @@ while (!Console.KeyAvailable) // Se repite meintra no toques
     Console.WriteLine("");
     Console.WriteLine("");
     Console.WriteLine("");
-    Console.WriteLine("adfakpjafadsfjipadfjopasfopasfjkopadsfjkopfasopfasasfjkpfasjkpafjkpasf");
+    Console.WriteLine("Creado por Federico Mendoza y Dimas Godoy");
 
 
     Thread.Sleep(100);
@@ -181,7 +181,7 @@ while (!Console.KeyAvailable) // Se repite meintra no toques
     Console.WriteLine("");
     Console.WriteLine("");
     Console.WriteLine("");
-    Console.WriteLine("adfakpjafadsfjipadfjopasfopasfjkopadsfjkopfasopfasasfjkpfasjkpafjkpasf");
+    Console.WriteLine("Creado por Federico Mendoza y Dimas Godoy");
 
 
     Thread.Sleep(100);
@@ -239,7 +239,7 @@ while (!Console.KeyAvailable) // Se repite meintra no toques
     Console.WriteLine("");
     Console.WriteLine("");
     Console.WriteLine("");
-    Console.WriteLine("adfakpjafadsfjipadfjopasfopasfjkopadsfjkopfasopfasasfjkpfasjkpafjkpasf");
+    Console.WriteLine("Creado por Federico Mendoza y Dimas Godoy");
 
 
     Thread.Sleep(100);
@@ -292,8 +292,8 @@ while (!Console.KeyAvailable) // Se repite meintra no toques
     Console.WriteLine("");
     Console.WriteLine("");
     Console.WriteLine("");
-    Console.WriteLine("adfakpjafadsfjipadfjopasfopasfjkopadsfjkopfasopfasasfjkpfasjkpafjkpasf");
-
+    Console.WriteLine("Creado por Federico Mendoza y Dimas Godoy");
+    
     Thread.Sleep(100);
 }
 
