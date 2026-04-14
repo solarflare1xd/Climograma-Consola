@@ -1,0 +1,14 @@
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\bin\Debug\net10.0\Clima pipipi.exe
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\bin\Debug\net10.0\Clima pipipi.deps.json
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\bin\Debug\net10.0\Clima pipipi.runtimeconfig.json
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\bin\Debug\net10.0\Clima pipipi.dll
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\bin\Debug\net10.0\Clima pipipi.pdb
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.AssemblyInfoInputs.cache
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.AssemblyInfo.cs
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.csproj.CoreCompileInputs.cache
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.dll
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\refint\Clima pipipi.dll
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.pdb
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\Clima pipipi.genruntimeconfig.cache
+C:\Users\Fede\Music\Taller 2 jisjis\Clima pipipi\Clima pipipi\obj\Debug\net10.0\ref\Clima pipipi.dll
